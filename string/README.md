@@ -1,3 +1,0 @@
-# STRING
-
-Python string programs.

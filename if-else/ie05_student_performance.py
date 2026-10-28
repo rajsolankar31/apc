@@ -1,0 +1,6 @@
+p = float(input("Enter percentage: "))
+if p >= 90: print("Excellent performance")
+elif p >= 80: print("Very Good performance")
+elif p >= 70: print("Good performance")
+elif p >= 60: print("Average performance")
+else: print("Poor performance")

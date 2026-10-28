@@ -1,0 +1,6 @@
+Type,Amount
+Deposit,5000
+Withdrawal,1200
+Deposit,3000
+Withdrawal,2500
+Deposit,800

@@ -1,3 +1,0 @@
-# LIST
-
-Python list programs.

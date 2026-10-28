@@ -1,3 +1,0 @@
-# FUNCTIONS
-
-Python functions programs.

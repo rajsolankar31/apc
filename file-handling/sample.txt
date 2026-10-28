@@ -1,0 +1,4 @@
+Python is a simple programming language.
+It is easy to learn and python is fun!
+File handling in Python uses 123 open() calls.
+Reading and writing files is a basic skill.

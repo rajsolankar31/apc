@@ -1,3 +1,0 @@
-# FOR
-
-Python for programs.

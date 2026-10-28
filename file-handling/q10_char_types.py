@@ -1,0 +1,6 @@
+import os; os.chdir(os.path.dirname(os.path.abspath(__file__)))
+text = open("sample.txt").read()
+a = sum(c.isalpha() for c in text); d = sum(c.isdigit() for c in text)
+s = text.count(" ")
+sp = sum(not c.isalnum() and not c.isspace() for c in text)
+print(f"Alphabets: {a}\nDigits: {d}\nSpaces: {s}\nSpecial characters: {sp}")
